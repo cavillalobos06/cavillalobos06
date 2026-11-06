@@ -21,7 +21,7 @@ I'm a Junior Backend Developer focused on building RESTful APIs and maintainable
 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,express,postgres,git,github,docker,postman,vscode&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,express,postgres,git,github,docker,postman,aws,vscode&perline=6"/>
 </p>📚 Currently Learning
 
 - Advanced Backend Development
@@ -29,14 +29,3 @@ I'm a Junior Backend Developer focused on building RESTful APIs and maintainable
 - Software Architecture
 - DevOps & CI/CD
 
-📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>---
-
-<p align="center">
-  <i>"Building today, improving every day."</i> 🚀
-</p>
