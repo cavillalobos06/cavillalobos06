@@ -5,7 +5,7 @@
 </p><p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Currently%20Learning-Software%20Architecture-2563EB?style=for-the-badge"/>
-</p>---
+</p>
 
 👨‍💻 About Me
 
