@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi there! 👋 I'm Camilo
 
-<!--
-**cavillalobos06/cavillalobos06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Backend Developer | Node.js | NestJS | TypeScript
 
-Here are some ideas to get you started:
+I'm a software development enthusiast focused on Backend Development and building scalable, maintainable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm working with Node.js, NestJS, TypeScript, and PostgreSQL, focusing on REST API development, Clean Architecture, database management, and software engineering best practices.
+
+🚀 Technologies & Tools
+
+- Languages: JavaScript, TypeScript.
+- Backend: Node.js, NestJS, Express.
+- Databases: PostgreSQL, SQL.
+- ORM: TypeORM.
+- Architecture: Clean Architecture, REST API.
+- Tools: Git, GitHub, Docker, Swagger, SonarQube, Jenkins.
+
+🎯 Currently Focused On
+
+- Improving my Backend Development skills.
+- Learning software architecture and design patterns.
+- Building real-world projects.
+- Exploring DevOps and CI/CD practices.
+
+💡 A Little About Me
+
+I'm a responsible, adaptable, and curious developer who enjoys solving problems, learning new technologies, and continuously improving my skills.
+
+Always learning, always building. 🚀
